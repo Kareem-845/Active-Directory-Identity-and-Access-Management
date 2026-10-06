@@ -14,3 +14,13 @@ This project demonstrates practical identity and access management and Windows S
 -Process a temporary access request
 -Troubleshoot an access/authorization issue
 -Document identity and access management procedures
+
+3. Lab Environment
+Server - Windows Server 2019
+Client - Windows 10
+Directory Service - Active Directory Domain Services
+DNS - Windows Server DNS
+Virtualization - VirtualBox
+Management Tool - Active Directory Users and Computers
+File System - NTFS
+
