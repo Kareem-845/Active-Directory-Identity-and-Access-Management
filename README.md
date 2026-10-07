@@ -24,3 +24,10 @@ Virtualization - VirtualBox
 Management Tool - Active Directory Users and Computers
 File System - NTFS
 
+4. Creating new users
+
+John Smith    IT        jsmith        
+Sarah Jones   HR        sjones    
+Mike Brown    Finance   mbrown
+
+Each user will be placed into the appropriate organizational unit.
