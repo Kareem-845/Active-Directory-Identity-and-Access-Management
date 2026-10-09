@@ -31,3 +31,21 @@ Sarah Jones   HR        sjones
 Mike Brown    Finance   mbrown
 
 Each user will be placed into the appropriate organizational unit.
+
+5. Create security groups
+
+Went to: Company > Groups
+
+Created: IT - Staff
+         HR - Staff
+         Finance - Staff
+         Helpdesk - Admins
+
+Use:
+
+New > Group
+
+Choose:
+
+Group scope: Global
+Group type: Security
