@@ -49,3 +49,18 @@ Choose:
 
 Group scope: Global
 Group type: Security
+
+6. Security Group Configuration
+
+   The following groups were configured:
+   IT - Staff
+   HR - Staff
+   Finance - Staff
+   Helpdesk - Admins
+
+   Users were assigned to the groups based on their job function.
+
+   John Smith         IT-Staff
+   John Smith         Helpdesk-Admins
+   Sarah Jones        HR-Staff
+   Mike Brown         Finance-Staff
