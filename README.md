@@ -64,3 +64,20 @@ Group type: Security
    John Smith         Helpdesk-Admins
    Sarah Jones        HR-Staff
    Mike Brown         Finance-Staff
+
+   7. Department File Resources
+      A centralized folder structure was created on the Windows Server.
+
+      C:\CompanyData
+
+      -IT
+      -HR
+      -Finance
+
+      Each department folder contained a test information file.
+
+      -IT - IT-Information.txt
+      -HR - HR-Information.txt
+      -Finance - Finance-Information.txt
+
+      These resources were used to test department-specific access.
